@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/anggie-ica/anggie-ica/raw/main/chomusuke.gif" width="150" height="150">
+  <img src="https://github.com/anggie-ica/anggie-ica/raw/main/chomusuke.gif" alt="Chomusuke" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Welcome+to+my+profile!;I'm+Ferisha+Anggieliantari&font=Fira%20Code&weight=700&center=true&width=500&height=50&color=9d4edd&vCenter=true&size=22">
 </div>
